@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <game>
-	<current_turn>1</current_turn>
+	<current_turn>white</current_turn>
 	<game_mode>2</game_mode>
 	<board>
 		<row_8>RNBQKBNR</row_8>
-		<row_7>MMMMMMM_</row_7>
+		<row_7>MMMMMMMM</row_7>
 		<row_6>________</row_6>
-		<row_5>_______M</row_5>
+		<row_5>________</row_5>
 		<row_4>m_______</row_4>
 		<row_3>________</row_3>
 		<row_2>_mmmmmmm</row_2>
 		<row_1>rnbqkbnr</row_1>
 	</board>
 	<general>
-		<row_8>00000000</row_8>
-		<row_7>0000000_</row_7>
-		<row_6>________</row_6>
-		<row_5>_______1</row_5>
-		<row_4>1_______</row_4>
-		<row_3>________</row_3>
-		<row_2>_0000000</row_2>
-		<row_1>00000000</row_1>
+		<White_Short>1</White_Short>
+		<Black_Short>1</Black_Short>
+		<White_Long>1</White_Long>
+		<Black_Long>1</Black_Long>
 	</general>
 </game>
