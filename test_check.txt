@@ -1,0 +1,6 @@
+For checking test i:
+1. make
+2. chessprog < testi.in > student_testi.out
+3. diff testi.out student_testi.out
+
+if the diff result is empty then the student will get the test full grade, else 0
